@@ -23,7 +23,6 @@
   - [License](#license)
 
   ## Installation
-  There is no installation necessary with this. Simply visit [HERE](https://cory-hall.github.io/cautious-adventure/) to view.
 
   ## Usage
   There are no required instructions for usage. Simply visit the previous link to view.
@@ -32,7 +31,7 @@
   There are no testing features (yet) included with this app.
 
   ## Screenshot
-  <img width='70%' src='./src/assets/images/Port-Screenshot.png'></img>
+  <img width='70%' src='./assets/images/project-screenshot.png'></img>
 
   ## Questions
   Any questions can be directed at the primary author via: <br>
