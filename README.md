@@ -23,7 +23,7 @@
   - [License](#license)
 
   ## Installation
-  ![Visit here to view](https://liquid-broccoli.herokuapp.com/)
+  [Visit here to view](https://liquid-broccoli.herokuapp.com/)
 
   ## Usage
   There are no required instructions for usage. Simply visit the previous link to view.
