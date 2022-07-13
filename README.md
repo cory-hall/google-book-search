@@ -2,7 +2,7 @@
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
-  This is my first semi-professional React Web Developer Portfolio.
+  This is a google book search engine. It functions off of the Google Search API.
 
   ## Technologies Used
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
